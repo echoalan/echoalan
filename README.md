@@ -23,7 +23,7 @@
 ## 📫 Contacto
 - 🌐 [Portfolio](https://coderalan.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/coderalan)  
-- 📧 Email: alan.rojas@example.com  
+- 📧 Email: rivero.rojasalan@gmail.com
 
 ---
 
