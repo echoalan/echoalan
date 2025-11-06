@@ -3,7 +3,7 @@
 ---
 
 ## 🔭 Qué estoy haciendo?
-- Creando proyectos personales en React, Node y PHP.  
+- Creando proyectos en React, Node y PHP.  
 - Explorando Inteligencia Artificial aplicada a educación y productividad.  
 - Mejorando mis habilidades en DevOps y deployment.  
 - Mejorando mi nivel de Ingles.
