@@ -7,7 +7,7 @@
 - 🚧 Desarrollando herramientas con React, Node y PHP.  
 - 🤖 Explorando IA aplicada a educación y productividad.  
 - ☁️ Aprendiendo sobre DevOps y despliegue.  
-- 📚 Mejorando mi nivel de inglés técnico.
+- 📚 Mejorando mi nivel de inglés.
 
 ---
 
