@@ -1,6 +1,4 @@
-# 👋 Hola, soy Alan Rojas
-
-![Banner](https://i.imgur.com/XXXXX.png) 
+# Hola, soy Alan Rojas
 
 ---
 
