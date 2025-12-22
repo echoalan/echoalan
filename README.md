@@ -1,17 +1,17 @@
-# 👋 Hola, soy Alan Rojas  
-[🌐 coderalan.com](https://coderalan.com)
+#  Hola, soy Alan Rojas  
+[ coderalan.com](https://coderalan.com)
 
 ---
 
 ## 🔭 Qué estoy haciendo
-- 🚧 Desarrollando herramientas con React, Node y PHP.  
-- 🤖 Explorando IA aplicada a educación y productividad.  
-- ☁️ Aprendiendo sobre DevOps y despliegue.  
-- 📚 Mejorando mi nivel de inglés.
+-  Desarrollando herramientas con React, Node y PHP.  
+-  Explorando IA aplicada a educación y productividad.  
+-  Aprendiendo sobre DevOps y despliegue.  
+-  Mejorando mi nivel de inglés.
 
 ---
 
-## ⚙️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,js,html,css,laravel,express,git,github,vscode,linux" />
 </p>
@@ -19,14 +19,14 @@
 
 ---
 
-💡 En 2020 comencé la carrera de Análisis de Sistemas.
+ En 2020 comencé la carrera de Análisis de Sistemas.
 Tras aprender pseudocódigo, C# y SQL, mi PC no soportaba bien Visual Studio... así que decidí sumergirme en la documentación de PHP, y ahí empezó todo.
 Desde entonces recorrí este camino:
 PHP → SQL → HTML → CSS → JavaScript → Laravel → Node.js → Express → Angular → React
 
 Tuve la suerte de poder aplicar lo que aprendía en entornos reales, con usuarios reales y feedback constante.
 Pero... ¿qué es la suerte?
-👉 Cuando se cruzan la preparación y una oportunidad. 
+Cuando se cruzan la preparación y una oportunidad. 
 
 ---
 
